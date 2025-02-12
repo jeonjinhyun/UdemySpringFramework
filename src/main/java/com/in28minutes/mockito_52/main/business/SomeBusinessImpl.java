@@ -21,7 +21,7 @@ public class SomeBusinessImpl {
 
 }
 
-public interface Data {
+public interface DataSer {
 
     
 }
