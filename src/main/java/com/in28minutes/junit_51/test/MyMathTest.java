@@ -1,6 +1,5 @@
 package com.in28minutes.junit_51.test;
 
-
 class MyMathTest {
 
 	private MyMath math = new MyMath();
