@@ -21,4 +21,4 @@ public class SomeBusinessImpl {
 
 }
 
-inter
+interface
