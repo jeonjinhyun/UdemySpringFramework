@@ -21,4 +21,7 @@ public class SomeBusinessImpl {
 
 }
 
-interface
+public interface Data {
+
+    
+}
