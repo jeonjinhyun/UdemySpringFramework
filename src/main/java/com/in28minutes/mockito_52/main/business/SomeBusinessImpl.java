@@ -23,5 +23,5 @@ public class SomeBusinessImpl {
 
 public interface DataService {
 
-    int[] retrieveAllD
+    int[] retrieveAllDa
 }
