@@ -82,6 +82,6 @@ public class BasicAuthSecurityConfiguration {
 		return jdbcUserDetailsManager;
 	}
 	
-    @Bea
+    @Bean
 	
 }
