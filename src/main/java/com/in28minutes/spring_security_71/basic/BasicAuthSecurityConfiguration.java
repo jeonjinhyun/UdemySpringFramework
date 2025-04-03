@@ -83,5 +83,5 @@ public class BasicAuthSecurityConfiguration {
 	}
 	
     @Bean
-    public BCryptPass
+    public BCryptPassw
 }
