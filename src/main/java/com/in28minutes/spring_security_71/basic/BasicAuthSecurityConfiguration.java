@@ -83,4 +83,4 @@ public class BasicAuthSecurityConfiguration {
 	}
 	
     @Bean
-    public BCryptPasswordEncoder pass
+    public BCryptPasswordEncoder passw
