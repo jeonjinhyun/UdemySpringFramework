@@ -83,4 +83,7 @@ public class BasicAuthSecurityConfiguration {
 	}
 	
     @Bean
-    public BCryptPasswordEncoder passwordEncoder
+    public BCryptPasswordEncoder passwordEncoder(){
+
+    }
+}
