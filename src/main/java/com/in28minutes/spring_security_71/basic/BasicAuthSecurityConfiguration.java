@@ -84,6 +84,6 @@ public class BasicAuthSecurityConfiguration {
 	
     @Bean
     public BCryptPasswordEncoder passwordEncoder(){
-        retur
+        return
     }
 }
